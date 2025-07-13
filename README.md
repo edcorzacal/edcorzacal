@@ -1,5 +1,5 @@
 <!-- 🌐 Header Banner --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=160&section=header&text=Welcome%20to%20edcorzacal's%20World!&fontColor=00FFFF&fontSize=32&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=160&section=header&text=Welcome%20to%20edcorzacal's%20Github!&fontColor=00FFFF&fontSize=32&animation=twinkling&fontAlignY=35" />
 </p><!-- ⌨️ Typing Bio --><h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+edcorzacal+%F0%9F%91%8B;Aspiring+Full-Stack+Dev+%7C+Bug+Squasher+%F0%9F%90%9B;Learning+by+Doing+%7C+Building+One+Project+at+a+Time!" alt="Typing SVG" />
 </h1>
