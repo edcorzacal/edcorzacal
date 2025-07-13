@@ -77,6 +77,6 @@ Each bug I fix is a victory dance moment (even if it takes 5 hours 😅).
 ---
 
 <p align="center">
-  © 2024 <strong>edcorzacal</strong> — All rights reserved. <br>
+  © 2025 <strong>edcorzacal</strong> — All rights reserved. <br>
   <em>This profile is my creative playground. Please don't copy without asking.</em>
 </p>
