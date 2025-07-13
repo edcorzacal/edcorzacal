@@ -37,6 +37,7 @@ Each bug I fix is a victory dance moment (even if it takes 5 hours 😅).
   <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>&nbsp;
   <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>&nbsp;
 </div>
+
 ---
 
 📊 GitHub Stats
@@ -46,6 +47,7 @@ Each bug I fix is a victory dance moment (even if it takes 5 hours 😅).
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edcorzacal&theme=tokyonight&border_radius=8" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcorzacal&layout=compact&theme=tokyonight&border_radius=8&langs_count=8" height="180"/>
 </div>
+
 ---
 
 🏆 GitHub Achievements
@@ -60,6 +62,7 @@ Each bug I fix is a victory dance moment (even if it takes 5 hours 😅).
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edcorzacal&theme=github-dark&hide_border=true&area=true"/>
 </p>
+
 ---
 
 🌐 Connect with Me
@@ -70,6 +73,7 @@ Each bug I fix is a victory dance moment (even if it takes 5 hours 😅).
   <a href="https://facebook.com/edcor.zacallll"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/zacal_edcor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 ---
 
 <p align="center">
