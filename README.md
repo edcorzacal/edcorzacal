@@ -56,6 +56,7 @@ Each bug I fix is a victory dance moment (even if it takes 5 hours 😅).
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edcorzacal&theme=algolia&margin-w=8&no-frame=true" />
 </p>
+
 ---
 
 🔥 GitHub Activity
