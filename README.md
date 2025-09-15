@@ -1,11 +1,11 @@
 <!-- Dynamic Header with Gradient Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=edcorzacal&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Bug%20Hunter&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SpecCoding&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Bug%20Hunter&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
 <!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there%2C+I'm+edcorzacal+%F0%9F%91%8B;Crafting+Digital+Solutions+%7C+One+Line+at+a+Time;Building+Tomorrow's+Apps+Today+%F0%9F%9A%80" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there%2C+I'm+SpecCoding+%F0%9F%91%8B;Crafting+Digital+Solutions+%7C+One+Line+at+a+Time;Building+Tomorrow's+Apps+Today+%F0%9F%9A%80" alt="Typing Animation"/>
 </div>
 
 <br>
